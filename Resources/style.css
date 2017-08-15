@@ -6,7 +6,7 @@ body {
 .header {
 	color: white;
 	font-family: helvetica;
-	background-image: url(./Photos/flatiron.png);
+	background-image: url(.Resources/Photos/flatiron.png);
 }
 
 #title {
@@ -47,7 +47,7 @@ h4 {
 	font-size: 23px;
 	font-weight: bold;
 	color: white;
-	background-image: url(./Photos/flatiron.png)
+	background-image: url(.Resources/Photos/flatiron.png)
 }
 
 #copyright {
