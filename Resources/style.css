@@ -2,3 +2,19 @@ body {
 	text-align: center;
 	font-family: Helvetica;
 }
+
+#MainHeading {
+	font-size: 70 px;
+	font-weight: bold;
+	color: white;
+	background-image: url(./Photos/flatiron.png);
+}
+.link {
+	color: white;
+	font-size: 18px;
+	font-family: Helvetica;
+}
+
+ul {
+	list-style: none;
+}
